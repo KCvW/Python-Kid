@@ -12,4 +12,4 @@ elif user_choice == 'paper' and computer_choice == 'rock':
 elif user_choice == 'scissors' and computer_choice == 'paper':
     print ('WIN, the computer had ' + computer_choice)
 else:
-    print ('You lose - coputer wins')
+    print ('You lose - computer wins')
